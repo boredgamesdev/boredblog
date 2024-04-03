@@ -82,9 +82,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Blog"
+    Title: "Welcome"
     Content: >
-      Welcome to my corner of the internet, where I dive deep into topics such as technology and cybersecurity.
+      Thanks for stopping by my corner of the internet, where I dive deep ramble about topics such as technology and cybersecurity.
     
   socialIcons:
     - name: linkedin
