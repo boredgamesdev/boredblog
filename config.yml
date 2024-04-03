@@ -70,7 +70,7 @@ params:
 
   profileMode:
     enabled: false
-    title: Bored Blog
+    title: "Ruben's Blog"
     imageUrl: "#"
     imageTitle: my image
     # imageWidth: 120
