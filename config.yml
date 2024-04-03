@@ -84,7 +84,8 @@ params:
   homeInfoParams:
     Title: "Ruben's Blog"
     Content: >
-    Welcome to my corner of the internet, where I dive deep into the ever-evolving realms of technology and cybersecurity.
+      Welcome to my corner of the internet, where I dive deep into the ever-evolving realms of technology and cybersecurity.
+    
   socialIcons:
     - name: linkedin
       title: LinkedIn profile
