@@ -84,7 +84,7 @@ params:
   homeInfoParams:
     Title: "Blog"
     Content: >
-      Welcome to my corner of the internet, where I dive deep into the ever-evolving realms of technology and cybersecurity.
+      Welcome to my corner of the internet, where I dive deep into topics such as technology and cybersecurity.
     
   socialIcons:
     - name: linkedin
