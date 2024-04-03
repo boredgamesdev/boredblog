@@ -84,7 +84,7 @@ params:
   homeInfoParams:
     Title: "Welcome"
     Content: >
-      Thanks for stopping by my corner of the internet, where I dive deep ramble about topics such as technology and cybersecurity.
+      Thanks for stopping by my corner of the internet, where I dive deep (and sometimes ramble) about topics related to technology and cybersecurity.
     
   socialIcons:
     - name: linkedin
